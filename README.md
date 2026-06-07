@@ -1,4 +1,4 @@
-Duoc UC
+<img width="488" height="157" alt="68747470733a2f2f7777772e64756f632e636c2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f6c6f676f2d302e706e67" src="https://github.com/user-attachments/assets/2f711f12-779a-43c8-997c-2fed837c1ffd" />
 
 
 # 🧠 Desarrollo Orientado a Objetos I
