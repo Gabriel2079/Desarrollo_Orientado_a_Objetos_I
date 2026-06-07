@@ -16,7 +16,7 @@ public class Persona {
         this.direccion = direccion;
     }
 
-    // Getters y setters cambiados para el objeto Rut
+    // Getters y setters
     public Rut getRut() { return rut; }
     public void setRut(Rut rut) { this.rut = rut; }
 
