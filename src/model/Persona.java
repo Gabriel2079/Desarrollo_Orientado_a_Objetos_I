@@ -4,10 +4,11 @@ package model;
  * Representa a una persona en el sistema.
  */
 public class Persona {
-    private Rut rut;
+
     private String nombre;
     private String correo;
     private Direccion direccion;
+    private Rut rut;
 
     public Persona(Rut rut, String nombre, String correo, Direccion direccion) {
         this.rut = rut;

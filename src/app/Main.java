@@ -3,7 +3,7 @@ package app;
 import model.Direccion;
 import model.Persona;
 import model.Empleado;
-import model.Rut; // inclui RUT
+import model.Rut; // incluyo RUT
 
 public class Main {
     public static void main(String[] args) {
